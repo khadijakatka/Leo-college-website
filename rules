@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rules</title>
+</head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 10px;
+}
+
+/* Page Content */
+.content {padding:20px;}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1></h1>
+ 
+</div>
+<br></br>
+<body bgcolor="#FFE4C4">
+    <center><table width="1000" align="center" cellpadding="0" cellspacing="0"> 
+         <tr> 
+             <td align="left">
+                 <img src="images/leoschoolbanswara-logo.png" alt="leo school logo" >
+             </td>
+             <td align="right">
+                <font face="arial" size="6" color="	#7FFFD4">
+              <a href="home.html"> Home </a>  |  <a href="about.html"> About Us </a>  |  <a href="rules.html"> Rules </a>  |  <a href="facilities.html"> Facilities </a>  |  <a href="contact.html"> Contact Us </a>
+            </font>
+            </td>
+         </tr> 
+        </table>
+        <br>
+        <br>
+        
+    </br>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <table width="875" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td align="center">
+                    <h1>
+                         <U> <FONT SIZE="7" COLOR="RED"> <b> RULES  </b> </FONT></U>
+                         <br>
+                         <br>
+                         <br>
+                         
+                         
+                         </br>
+                     
+                    </h1>
+                    <h2><FONT SIZE="6"> RULES OF DISCIPLINE  </FONT> </h2>
+                </TD>
+            </TR>
+            <TR>
+                    <TD ALIGN="LEFT">
+                            <font size="5">
+
+
+    <div class="row animate-box fadeInUp animated-fast">
+            <div class="col-md-12 fh5co-heading">
+                <ul class="pull-left">
+                  <B>  <li>Uniform is compulsory and should be strictly in accordance with the pattern prescribed by the school.</li>
+                    <li>All are expected to speak English in the school premises and in the school vehicles.</li>
+                    <li>No CD, DVD, USB memory, i pod and books other than text books and note books should be brought to school.</li>
+                    <li>Students are not permitted to entertain teachers with gifts.</li>
+                    <li>Students shall not bring any eatables other than regular meals.</li>
+                    <li>Students who fail twice in the same class, will have to leave the school.</li>
+                    <li>Pupils who absent themselves from an examination for any reason will not be re-examined.</li>
+                    <li>Every student is responsible for the safe custody of his/her belongings. The school will not be responsible for the loss of any belongings. Ornaments and jewellery of any kind are not allowed in the school. Pupils are advised not to bring big amounts of money to school.</li>
+                </B> </ul>
+            </div>
+        </div>
+        </font>
+        </TD>
+        </TR>
+
+        </table>
+
+    
+
+    <br>
+    </br>
+
+
+            <table width="875" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td align="center">
+                            <h2><FONT SIZE="6">EXAMINATION RULES  </FONT> </h2>
+                        </TD>
+                    </TR>
+                    <TR>
+                            <TD ALIGN="LEFT">
+                                    <font size="5">
+    
+    
+            <div class="row animate-box fadeInUp animated-fast">
+                    <div class="col-md-12 fh5co-heading">
+                        <ul class="pull-left">
+                          <B><li>The school strictly follows continuous and comprehensive evaluation (CCE) system for the assessment of student.</li>
+                            <li>There will be two terms in a year. In Each term there will be two formative assessments (FA’s) and one summative assessment (SA).i.e. In first term FA1, FA2, and SA1 and in the second term: FA3 FA4 and SA2.</li>
+                            <li>Student are to actively participate in all the activities whether scholastic or co-scholastic as it will all be assessed and corresponding grade included in the CCE card.</li>
+                            <li>There will be regular monthly tests in the week of every month.</li>
+                            <li>There shall be no formal tests for the student of pre primary. However there will be continuous evaluation of the performance of the child through out the year.</li>
+                            </B> </ul>
+                    </div>
+                </div>
+                </font>
+                </TD>
+                </TR>
+
+                </table>
+       
+            
+        
+            
+        <br>
+            </BR>
+              
+
+                    <table width="875" align="center" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td align="center">
+                                    <h2><FONT SIZE="6">FEE RULES  </FONT> </h2>
+                                </TD>
+                            </TR>
+                            <TR>
+                                    <TD ALIGN="LEFT">
+                                            <font size="5">
+            
+            
+                    <div class="row animate-box fadeInUp animated-fast">
+                            <div class="col-md-12 fh5co-heading">
+                                <ul class="pull-left">
+                                  <B>					<li>Fees are to be paid in 5 installments.</li>
+                                    <li>All fees must be paid by the 10th day of scheduled months. A fine will charged late payment of fees.</li>
+                                    <li>Once paid, No fees will be refunded in any circumstances.</li>
+                                    <li>Student, who avail of bus services should inform the school office at-least one month in advance before leaving the facilities in the middle of the session.</li>						
+                                  </B> </ul>
+                            </div>
+                        </div>
+                        </font>
+                        </TD>
+                        </TR>
+                        </table>
+                
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+   
+    
+    </br>
+<!-- Footer Start -->
+<footer id="fh5co-footer" class="fh5co-bg" style="background-image: url(images/img_bg_1.jpg);" role="contentinfo">
+<div class="overlay"></div>
+<div class="container">
+     <div class="col-md-2 fh5co-widget">
+         <script language="JavaScript">var fhsg = document.createElement('script');var fhs_id_g = "412294";
+         fhsg.src = "//freehostedscripts.net/ghitcounter.php?site="+fhs_id_g+"&s=7&a=1";
+         document.head.appendChild(fhsg);document.write("<span id='g_"+fhs_id_g+"'></span>");
+         </script>
+     </div>
+     </div>
+ </div>
+
+ <div class="row copyright">
+     <div class="col-md-12 text-center">
+         <p>
+             <small class="block">&copy; Made by Khadija </small> 
+         </p>
+     </div>
+ </div>
+
+</div>
+</footer>	<!-- Footer End -->
+
+
+ 
+
+ 
+</html>
