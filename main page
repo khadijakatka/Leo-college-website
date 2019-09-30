@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Leo International School</title>
+    
+</head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 10px;
+}
+
+/* Page Content */
+.content {padding:20px;}
+
+#stage {
+            margin: 1em auto;
+            width: 1000px;
+            height: 400px;
+          }
+          
+          #stage a {
+            position: absolute;
+          }
+          #stage a img {
+            padding: 10px;
+            border: 1px solid #ccc;
+            background: #fff;
+          }
+          
+          #stage a:nth-of-type(1) {
+            animation-name: fader;
+            animation-delay: 2s;
+            animation-duration: 1s;
+            z-index: 20;
+          }
+          #stage a:nth-of-type(2) {
+            z-index: 10;
+          }
+          #stage a:nth-of-type(n+3) {
+            display: none;
+          }
+          
+          @keyframes fader {
+            from { opacity: 1.0; }
+            to   { opacity: 0.0; }
+          }
+</style>
+
+<div class="header">
+  <h1></h1>
+ 
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<br>
+</br>
+<body>
+  <table width="1000" align="center" cellpadding="0" cellspacing="0"> 
+   <tr> 
+      <td align="left">
+        <img src="images/leoschoolbanswara-logo.png" alt="leo school logo" >
+      </td>
+        <td align="right">
+          <font face="arial" size="6" color="	#7FFFD4">
+            <a href="home.html"> Home </a>  |  <a href="about.html"> About Us </a>  |  <a href="rules.html"> Rules </a>  |  <a href="facilities.html"> Facilities </a>  |  <a href="contact.html"> Contact Us </a>
+            </font>
+            </td>
+         </tr> 
+        </table>
+        <br>
+        <br>
+        </br>
+
+        <table width="875" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+              <td align="center">
+                  <h1 >
+                       <font color="#1abc9c" size="7"> <u> <b> <i>  Welcome to Leo International School  </u> </i></font></b>
+                  </h1>
+                  
+              </td>
+          </tr>
+      </table>
+
+      <BR>
+      </BR>
+      
+      <div id="stage">
+        <a href="images/leoslide1.jpg"><img src="images/leoslide1.jpg" width="1000" height="500"></a>
+        <a href="images/leoslide2.jpg"><img src="images/leoslide2.jpg" width="1000" height="500"></a>
+        <a href="images/leoslide3.jpg"><img src="images/leoslide3.jpg" width="1000" height="500"></a>
+        </div>
+    
+        <script type="text/javascript">
+    
+          
+          window.addEventListener("DOMContentLoaded", function(e) {
+          
+            var stage = document.getElementById("stage");
+            var fadeComplete = function(e) { stage.appendChild(arr[0]); };
+            var arr = stage.getElementsByTagName("a");
+            for(var i=0; i < arr.length; i++) {
+            arr[i].addEventListener("animationend", fadeComplete, false);
+            }
+          
+          }, false);
+          
+          </script>
+          <br>
+
+<table width="875" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+      <td align="left">
+          <h1 >
+              
+                      
+                      
+
+
+                    
+                          Our goal is to nourish our students to be true global citizens who excel in a 
+                          diverse and multicultural society. Leo endeavors to provide a genuine and holistic 
+                          education in a stress free environment where students are inculcated with a spirit of enquiry.
+
+          </h1>
+                    </td>
+  </tr>
+
+                      <br>
+                    </BR>
+                    <tr>
+                      <td align="center">
+                        <h1>
+                  <font color="red" size><B>  <U> OUR VISION </U>  </B></font></h1>
+                      </td>
+                    </tr>
+                        <BR>
+                          <br>
+                          <tr>
+                            <td align="left">
+                          <h1>
+                          We believe that the best preparation for tomorrow’s future is striving to do our best today. We believe that because our children matter, 
+                          they have the right to be safe and healthy, happy and confident, recognised for the individuals they are and for those they might become. 
+                          We believe that because our children’s achievement matters, they have the right to an excellent learning environment that promotes high 
+                          expectations, ensures inclusion, recognises diversity and promotes progress and attainment. We believe that because our children’s future 
+                          matters, they have the right to lead, the right to follow,
+                           the right to take best advantage of present and future technology and the right to a global life free from threat.
+ 
+                          </h1>
+                        </td>
+                      </tr>
+
+                      <tr>
+                          <td align="center">
+                            <h1>
+                           <br>
+                          
+                          <font color="red" size> <B>  <U> OUR MISSION </U>  </B> </font>
+                          </td>
+                        </tr>
+                           <BR>
+                            <br>
+
+                            <tr>
+                                <td align="left">
+                                  <h1>
+                           To seek a learning life where education is not restricted to qualification but is a contribution to the overall 
+                      development of every person associated with LEO. To light a path which paves way to 
+                      success through loyalty, compassion, respect for core values, critical thinking skills thus inducing a global perspective.
+                    </font>
+                  </h1>
+                </td>
+              </tr>
+</table>
+<BR>
+  <BR><BR>
+    <BR><BR>
+      <BR>
+                        
+                          </BR>
+                          <table width="875" align="center" cellpadding="0" cellspacing="0">
+                             
+                          <tr>
+                              <td align="center">
+                      <img src="images/leoschool-cbse-logo.png" alt="cbse logo">
+                     <FONT SIZE="2"> <B> Leo International School is CBSE affiliated.</B></FONT>
+                    
+          
+      </td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+
+</br>
+<!-- Footer Start -->
+<footer id="fh5co-footer" class="fh5co-bg" style="background-image: url(images/img_bg_1.jpg);" role="contentinfo">
+  <div class="overlay"></div>
+  <div class="container">
+      <div class="col-md-2 fh5co-widget">
+        <script language="JavaScript">var fhsg = document.createElement('script');var fhs_id_g = "412294";
+                  fhsg.src = "//freehostedscripts.net/ghitcounter.php?site="+fhs_id_g+"&s=7&a=1";
+                  document.head.appendChild(fhsg);document.write("<span id='g_"+fhs_id_g+"'></span>");
+                  </script>
+      </div>
+      </div>
+    </div>
+
+    <div class="row copyright">
+      <div class="col-md-12 text-center">
+        <p>
+          <small class="block">&copy; Made by Khadija</small> 
+        </p>
+      </div>
+    </div>
+
+  </div>
+</footer>	<!-- Footer End -->
+
+
+          
+
+          
+
+
+</body>
+</html>
